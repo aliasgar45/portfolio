@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "pnpm feed && next build",
     "start": "next start",
-    "lint": "next lint",
-    "feed": "node scripts/gen-rss.js"
+    "lint": "next lint"
   },
   "dependencies": {
     "cobe": "^0.6.3",
