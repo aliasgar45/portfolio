@@ -7,7 +7,7 @@ export default function Document() {
   const meta = {
     title: 'Rohan Kambli',
     description: `${age} y/o student from Mumbai, India passionate about digital design and development`,
-    image: '/favicon.png',
+    // image: '/favicon.png',
   };
 
   return (
