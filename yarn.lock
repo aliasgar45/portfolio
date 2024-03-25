@@ -89,6 +89,11 @@
   resolved "https://registry.npmjs.org/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.9.tgz"
   integrity sha512-L9n+e8Wn3hKr3RsIdY8GaB+ry4xZ4BaGwyKExgoB8nDGQuRUY9oP6p0WA4hWfJvJnU1H6hvo36a5UFPReyBO7A==
 
+"@napi-rs/simple-git-win32-x64-msvc@0.1.9":
+  version "0.1.9"
+  resolved "https://registry.npmjs.org/@napi-rs/simple-git-win32-x64-msvc/-/simple-git-win32-x64-msvc-0.1.9.tgz"
+  integrity sha512-VAZj1UvC+R2MjKOD3I/Y7dmQlHWAYy4omhReQJRpbCf+oGCBi9CWiIduGqeYEq723nLIKdxP7XjaO0wl1NnUww==
+
 "@napi-rs/simple-git@^0.1.8":
   version "0.1.9"
   resolved "https://registry.npmjs.org/@napi-rs/simple-git/-/simple-git-0.1.9.tgz"
@@ -127,6 +132,11 @@
   version "13.1.1"
   resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.1.1.tgz"
   integrity sha512-CM9xnAQNIZ8zf/igbIT/i3xWbQZYaF397H+JroF5VMOCUleElaMdQLL5riJml8wUfPoN3dtfn2s4peSr3azz/g==
+
+"@next/swc-win32-x64-msvc@13.1.1":
+  version "13.1.1"
+  resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-13.1.1.tgz"
+  integrity sha512-mVF0/3/5QAc5EGVnb8ll31nNvf3BWpPY4pBb84tk+BfQglWLqc5AC9q1Ht/YMWiEgs8ALNKEQ3GQnbY0bJF2Gg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -2998,6 +3008,11 @@ picomatch@^2.3.1:
   version "2.3.1"
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
+
+pnpm@^8.15.5:
+  version "8.15.5"
+  resolved "https://registry.npmjs.org/pnpm/-/pnpm-8.15.5.tgz"
+  integrity sha512-sFGjLH5pWDO4SSbTspuMylclS1ifBknYmcbp0O22cLkex+KkNFm65zdZu1zmGcMmbxFr+THOItHvF1mn5Fqpbw==
 
 postcss@8.4.14:
   version "8.4.14"

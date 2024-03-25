@@ -8,8 +8,8 @@ export default {
       >
         made w/ ♥
       </abbr>{' '}
-    by Rohan Kambli.
-      <a className="email" href="mailto:rohanrk39357@gmail.com">
+    by Aliasgar Fatakdawala.
+      <a className="email" href="mailto:aliasgardf@gmail.com">
         ඞ
       </a>
     </small>

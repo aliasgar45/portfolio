@@ -5,8 +5,8 @@ const age = new Date().getYear() - new Date('November 27, 2002').getYear();
 export default function Document() {
   
   const meta = {
-    title: 'Rohan Kambli',
-    description: `${age} y/o student from Mumbai, India passionate about digital design and development`,
+    title: 'Aliasgar Fatakdawala',
+    description: `{age} y/o Developer from Mumbai, India passionate about **Coding** and **Development**`,
     // image: '/favicon.png',
   };
 

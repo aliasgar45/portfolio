@@ -14,6 +14,7 @@
     "next": "13.1.1",
     "nextra": "2.0.3",
     "nextra-theme-blog": "2.0.3",
+    "pnpm": "^8.15.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "rss": "1.2.2",
